@@ -1,7 +1,7 @@
 
 [![Profile](/images/profile5.png)](https://peter-seweiha.github.io/)
 
-**Peter Seweiha**
+**Peter Seweiha** |
 *Data Scientist*
 
 
