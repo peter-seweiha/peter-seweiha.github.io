@@ -4,7 +4,7 @@
 **Peter Seweiha** |
 *Data Scientist*
 
-  [![LinkedIn](images/linkedin5.png)](https://www.linkedin.com/in/pseweiha/) [LinkedIn](https://www.linkedin.com/in/pseweiha/)
+  [![LinkedIn](images/linkedin12.png)](https://www.linkedin.com/in/pseweiha/) [LinkedIn](https://www.linkedin.com/in/pseweiha/)
 
 # Data Science and Machine Learning Portfolio
 Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
