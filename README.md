@@ -1,5 +1,6 @@
 
 [![Profile](/images/profile4.png)](https://peter-seweiha.github.io/) Peter Seweiha
+Data Scientist
 
 
 # Data Science and Machine Learning Portfolio
