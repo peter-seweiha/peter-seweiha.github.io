@@ -6,6 +6,8 @@
 
   [![LinkedIn](images/linkedin14.png)](https://www.linkedin.com/in/pseweiha/) [LinkedIn](https://www.linkedin.com/in/pseweiha/)
 
+  [![GitHub](images/github14.png)](https://github.com/peter-seweiha) [GitHub](https://github.com/peter-seweiha)
+
 # Data Science and Machine Learning Portfolio
 Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
