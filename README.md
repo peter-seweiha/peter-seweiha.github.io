@@ -1,7 +1,9 @@
 
-[![Profile](/images/profile5.png)](https://peter-seweiha.github.io/) **Peter Seweiha**
-Data Scientist
+[![Profile](/images/profile5.png)](https://peter-seweiha.github.io/)
 
+**Peter Seweiha**
+*Data Scientist*
+Melbourne, AU
 
 # Data Science and Machine Learning Portfolio
 Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
