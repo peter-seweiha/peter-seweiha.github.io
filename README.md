@@ -1,3 +1,4 @@
+[![Footer](images/melbourne.jpg)](https://peter-seweiha.github.io/)
 [![Profile](/images/profile5.png)](https://peter-seweiha.github.io/)
 
 **Peter Seweiha** |
@@ -14,19 +15,3 @@ Repository containing portfolio of data science projects completed for academic,
 Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
   - **Machine Learning**: scikit-learn, TensorFlow, keras
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Footer](images/melbourne.jpg)](https://peter-seweiha.github.io/)
