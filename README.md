@@ -14,6 +14,3 @@ Repository containing portfolio of data science projects completed for academic,
 Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
   - **Machine Learning**: scikit-learn, TensorFlow, keras
-
-
-[![Profile](/images/profile5.png)](https://peter-seweiha.github.io/)
