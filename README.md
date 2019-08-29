@@ -1,9 +1,8 @@
 
 [![Profile](/images/profile5.png)](https://peter-seweiha.github.io/)
+
 **Peter Seweiha**
-
 Data Scientist
-
 *Melbourne, AU*
 
 # Data Science and Machine Learning Portfolio
