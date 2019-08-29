@@ -1,5 +1,5 @@
 
-[![LICENSE](/images/profile2.jpeg)](https://peter-seweiha.github.io/) Peter Seweiha
+[![Profile](/images/profile4.png)](https://peter-seweiha.github.io/) Peter Seweiha
 
 
 # Data Science and Machine Learning Portfolio
