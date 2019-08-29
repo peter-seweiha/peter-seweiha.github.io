@@ -1,5 +1,5 @@
 
-
+[![LICENSE](/images/profile.jpeg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 
 
 # Data Science and Machine Learning Portfolio
