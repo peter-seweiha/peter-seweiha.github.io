@@ -1,5 +1,5 @@
 
-[![Profile](/images/profile4.png)](https://peter-seweiha.github.io/) **Peter Seweiha**
+[![Profile](/images/profile5.png)](https://peter-seweiha.github.io/) **Peter Seweiha**
 Data Scientist
 
 
