@@ -18,4 +18,4 @@ Tools
 
   If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
 
-    - [/images/linkedin2.png][LinkedIn](https://www.linkedin.com/in/pseweiha/)
+     [/images/linkedin2.png]([LinkedIn][https://www.linkedin.com/in/pseweiha/])
