@@ -1,5 +1,5 @@
 
-[![LICENSE](/images/profile.jpeg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
+[![LICENSE](/images/profile2.jpeg)](https://peter-seweiha.github.io/) Peter Seweiha
 
 
 # Data Science and Machine Learning Portfolio
