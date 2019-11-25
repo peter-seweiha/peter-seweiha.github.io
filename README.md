@@ -18,4 +18,6 @@ Repository containing portfolio of Machine Learning projects completed for acade
 
 
 **Projects**
-1. My approach to Kaggle's Titanic dataset (I made it to top 10% on Leaderboard!)  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/My_solution.ipynb)
+1. My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!)  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/My_solution.ipynb)
+
+2. Natural Language Processing (NLP) - Classify restaurant reviews into positive/negative  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)
