@@ -1,7 +1,7 @@
 [![Footer](images/header.png)](https://peter-seweiha.github.io/)
 
 **Peter Seweiha** |
-*Business Improvement Specialist*
+*Data Scientist & Business Improvement Specialist*
 
   [![LinkedIn](images/linkedin14.png)](https://www.linkedin.com/in/pseweiha/) [LinkedIn](https://www.linkedin.com/in/pseweiha/)
 
