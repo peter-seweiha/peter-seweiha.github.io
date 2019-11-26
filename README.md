@@ -25,4 +25,8 @@ Repository containing portfolio of Machine Learning projects completed for acade
 
 2. Natural Language Processing (NLP) - Classify restaurant reviews into positive/negative  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)
 
-3. Artificial Neural Networks (ANN) - Churn Prediction  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/5_ANN/Churn%20Prediction%20using%20Deep%20Learning.ipynb)
+3. Artificial Neural Networks (ANN) - Bank customers' churn prediction  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/5_ANN/Churn%20Prediction%20using%20Deep%20Learning.ipynb)
+
+4. Unsupervised Learning - (K-means clustering) - Categorising Shpping mall customers based on their income and spending habits  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/6_k-means/K-means%20clustering.ipynb)
+
+5. Unsupervised Learning - Dimensionality Reduction (PCA) - Predicting if customer group would like a new wine based on product quality parameters  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/7_PCA/Principal%20Component%20Analysis%20(PCA).ipynb)
