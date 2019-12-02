@@ -20,7 +20,7 @@ Repository containing portfolio of Machine Learning projects completed for acade
   - **Minitab**: Control Charts, Process Capability Study, Measurement System Analysis(MSA), ANOVA, Hypothesis Tests, Time Series Analysis
 
 
-**Projects**
+### Projects
 1. **My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/My_solution.ipynb)
 
 2. Time Series Forecasting - Predict no of a restaurant chain's daily customers 4 weeks in the future [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb) - 
