@@ -21,10 +21,10 @@ Repository containing portfolio of Machine Learning projects completed for acade
 
 
 **Projects**
-1. My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!)  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/My_solution.ipynb)
+1. **My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!) ** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/My_solution.ipynb)
 
-2. Time Series Forecasting - Predict no of a restaurant chain's daily customers 4 weeks in the future [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb)
-Here  compared the results of ARIMA based model, FaceBook prophet, and a traditional XGB regression. Imagine who won!
+2. Time Series Forecasting - Predict no of a restaurant chain's daily customers 4 weeks in the future [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb) - 
+*Here  compared the results of ARIMA based model, FaceBook prophet, and a traditional XGB regression. Imagine who won!*
 
 3. Natural Language Processing (NLP) - Classify restaurant reviews into positive/negative  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)
 
