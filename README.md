@@ -12,11 +12,12 @@
 Repository containing portfolio of Machine Learning projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 
-### My Toolbox**<br />- **Python**: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, keras
-  <br />- **Data Processing**: Exploratory Data Analysis, Data Visualisation, Feature Engineering, Feature Selection
-  <br />- **Machine Learning**: Linear Regression, Logistic Regression, KNN, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Naive Bayes, Principal Component Analysis (PCA), K-means, Artificial Neural Networks
-  <br />- **Power BI**: Interactive Dashboards
-  <br />- **Minitab**: Control Charts, Process Capability Study, Measurement System Analysis(MSA), ANOVA, Hypothesis Testing, Time Series Analysis
+### My Toolbox
+- **Python**: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, keras
+- **Data Processing**: Exploratory Data Analysis, Data Visualisation, Feature Engineering, Feature Selection
+- **Machine Learning**: Linear Regression, Logistic Regression, KNN, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Naive Bayes, Principal Component Analysis (PCA), K-means, Artificial Neural Networks
+- **Power BI**: Interactive Dashboards
+- **Minitab**: Control Charts, Process Capability Study, Measurement System Analysis(MSA), ANOVA, Hypothesis Testing, Time Series Analysis
 
 ### My Projects
 1. **My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/My_solution.ipynb) <br />- *I focused heavily on Feature Engineering making sure I can extract as much information from the given dataset in addition to what I can assume based on my knowledge of this tragedy*
