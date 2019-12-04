@@ -12,7 +12,7 @@
 Repository containing portfolio of Machine Learning projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 
-**My Toolbox**<br />- **Python**: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, keras
+### My Toolbox**<br />- **Python**: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, keras
   <br />- **Data Processing**: Exploratory Data Analysis, Data Visualisation, Feature Engineering, Feature Selection
   <br />- **Machine Learning**: Linear Regression, Logistic Regression, KNN, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Naive Bayes, Principal Component Analysis (PCA), K-means, Artificial Neural Networks
   <br />- **Power BI**: Interactive Dashboards
