@@ -13,7 +13,7 @@ Repository containing portfolio of Machine Learning projects completed for acade
 
 
 **Tools**<br />- **Python**: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, keras
-  <br />- **Data Processing**: Exploratory Data Analysis, Data Visualisation, Feature Engineering, Feature Selection
+  <br />    - **Data Processing**: Exploratory Data Analysis, Data Visualisation, Feature Engineering, Feature Selection
   <br />- **Machine Learning**: Linear Regression, Logistic Regression, KNN, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Naive Bayes, Principal Component Analysis (PCA), K-means, Artificial Neural Networks
   <br />- **Power BI**: Interactive Dashboards
   <br />- **Minitab**: Control Charts, Process Capability Study, Measurement System Analysis(MSA), ANOVA, Hypothesis Testing, Time Series Analysis
