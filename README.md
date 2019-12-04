@@ -19,6 +19,8 @@ Repository containing portfolio of Machine Learning projects completed for acade
   - **Power BI**: Interactive Dashboards
   - **Minitab**: Control Charts, Process Capability Study, Measurement System Analysis(MSA), ANOVA, Hypothesis Testing, Time Series Analysis
 
+\newline
+\newline
 
 ### Projects
 1. **My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/My_solution.ipynb) - *I focused heavily on Feature Engineering making sure I can extract as much information from the given dataset in addition to what I can assume based on my knowledge of this tragedy*
