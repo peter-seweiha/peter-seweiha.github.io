@@ -31,6 +31,9 @@ Repository containing portfolio of Data Science projects completed for academic,
 - **How to teach Artificial Intellegence to play Games**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/9_Reinforcement%20Learning/Frozen%20Lake%208x8.ipynb)  
 Computer learning how to play a game of Frozen Lake using Reinforcement Learning 
 
+- **Intro. to solving Differential Equations**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_02_Blogs/Differential%20equations/An%20introduction%20differential%20equations.ipynb)  
+Quick run through Differential Equations with a few simple examples using code
+
 - **Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
 Classify restaurant reviews into positive/negative  
 
