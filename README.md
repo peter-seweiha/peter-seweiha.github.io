@@ -1,4 +1,4 @@
-[![Footer](images/header.png)](https://peter-seweiha.github.io/)
+[![Footer](images/linkedin_background.png)](https://peter-seweiha.github.io/)
 
 **Peter Seweiha** |
 *Data Scientist & Business Improvement Specialist*
