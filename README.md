@@ -1,7 +1,7 @@
 [![Footer](images/linkedin_background.png)](https://peter-seweiha.github.io/)
 
->    ## Peter Seweiha  
->    **Data Scientist & Business Improvement Specialist**  
+>    **Peter Seweiha**  
+>    *Data Scientist & Business Improvement Specialist*  
 >    [![LinkedIn](images/linkedin14.png)](https://www.linkedin.com/in/pseweiha/) [LinkedIn](https://www.linkedin.com/in/pseweiha/)  
 >    [![GitHub](images/github14.png)](https://github.com/peter-seweiha) [GitHub](https://github.com/peter-seweiha)
 
