@@ -1,15 +1,13 @@
-[![Footer](images/header.png)](https://peter-seweiha.github.io/)
+[![Footer](images/linkedin_background.png)](https://peter-seweiha.github.io/)
 
-**Peter Seweiha** |
-*Data Scientist & Business Improvement Specialist*
-
-  [![LinkedIn](images/linkedin14.png)](https://www.linkedin.com/in/pseweiha/) [LinkedIn](https://www.linkedin.com/in/pseweiha/)
-
-  [![GitHub](images/github14.png)](https://github.com/peter-seweiha) [GitHub](https://github.com/peter-seweiha)
+>    **Peter Seweiha**  
+>    *Data Scientist & Business Improvement Specialist*  
+>    [![LinkedIn](images/linkedin14.png)](https://www.linkedin.com/in/pseweiha/) [LinkedIn](https://www.linkedin.com/in/pseweiha/)  
+>    [![GitHub](images/github14.png)](https://github.com/peter-seweiha) [GitHub](https://github.com/peter-seweiha)
 
 
-# Machine Learning Portfolio
-Repository containing portfolio of Machine Learning projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+# Data Science Portfolio
+Repository containing portfolio of Data Science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 
 ### My Toolbox
