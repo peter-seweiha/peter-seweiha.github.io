@@ -35,7 +35,7 @@ Computer learning how to play a game of Frozen Lake using Reinforcement Learning
 Quick run through Differential Equations with a few simple examples using code
 
 - **Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
-Classify a restaurant's cutomer text reviews into positive/negative  
+Classify a restaurant's customer text reviews into positive/negative  
 
 - **Artificial Neural Networks (ANN)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/5_ANN/Churn%20Prediction%20using%20Deep%20Learning.ipynb)  
 Bank customers' churn prediction  
