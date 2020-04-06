@@ -6,8 +6,8 @@
 >    [![GitHub](images/github14.png)](https://github.com/peter-seweiha) [GitHub](https://github.com/peter-seweiha)
 
 
-# Machine Learning Portfolio
-Repository containing portfolio of Machine Learning projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+# Data Science Portfolio
+Repository containing portfolio of Data Science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 
 ### My Toolbox
