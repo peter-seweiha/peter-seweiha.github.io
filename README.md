@@ -30,7 +30,7 @@ Repository containing portfolio of Machine Learning projects completed for acade
 <br/><br/>
 <br/><br/>
 
-### Quick Algorithm Implementation
+### My Blogs
 - **Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
 Classify restaurant reviews into positive/negative  
 
