@@ -28,7 +28,6 @@ Repository containing portfolio of Machine Learning projects completed for acade
 *Here I compared the performance of an ARIMA based model, FaceBook prophet, and a traditional XGB regression. Imagine who won!*
 
 <br/><br/>
-<br/><br/>
 
 ### My Blogs
 - **Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
