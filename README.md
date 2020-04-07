@@ -49,7 +49,7 @@ Classify a restaurant's customer text reviews into positive/negative
 - **Intro. to Artificial Neural Networks (ANN)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/5_ANN/Churn%20Prediction%20using%20Deep%20Learning.ipynb)  
 Bank customers' churn prediction  
 
-- **Intro. to Unsupervised Learning - K-means clustering**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/6_k-means/K-means%20clustering.ipynb)  
+- **Intro. to Unsupervised Learning - K.means clustering**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/6_k-means/K-means%20clustering.ipynb)  
 Categorising Shopping mall customers based on their income and spending habits
 
 - **Intro. to Unsupervised Learning - Dimensionality Reduction (PCA)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/7_PCA/Principal%20Component%20Analysis%20(PCA).ipynb)  
