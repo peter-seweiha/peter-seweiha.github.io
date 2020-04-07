@@ -31,8 +31,8 @@ Repository containing portfolio of Data Science projects completed for academic,
       - Individuals and Moving Range Control Charts (I-MR) [NoteBook]( )
       - Xbar-R [NoteBook]( )
       - Xbar-S [NoteBook]( )
-    - Process Capability Study  
-    - Normality Test  
+    - Process Capability Study [NoteBook]( )  
+    - Normality Test  [NoteBook]( )  
 
 
 <br/><br/>
