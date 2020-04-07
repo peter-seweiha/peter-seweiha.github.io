@@ -7,7 +7,7 @@
 
 
 # Data Science Portfolio
-Repository containing portfolio of Data Science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+Repository containing a portfolio of Data Science projects and blogs completed for academic, self-learning, and professional purposes presented in the form of Jupyter Notebooks.
 
 
 ### My Toolbox
