@@ -34,7 +34,6 @@ Repository containing portfolio of Data Science projects completed for academic,
     - Process Capability Study [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/process%20capability/Process%20Capability.ipynb)
     - Normality Test  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/process%20capability/Normality%20test.ipynb)
 
-
 <br/><br/>
 
 ### My Blogs
@@ -44,14 +43,14 @@ Computer learning how to play a game of Frozen Lake using Reinforcement Learning
 - **Intro. to solving Differential Equations**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_02_Blogs/Differential%20equations/An%20introduction%20differential%20equations.ipynb)  
 Quick run through Differential Equations with a few simple examples using code
 
-- **Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
+- **Intro. to Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
 Classify a restaurant's customer text reviews into positive/negative  
 
-- **Artificial Neural Networks (ANN)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/5_ANN/Churn%20Prediction%20using%20Deep%20Learning.ipynb)  
+- **Intro. to Artificial Neural Networks (ANN)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/5_ANN/Churn%20Prediction%20using%20Deep%20Learning.ipynb)  
 Bank customers' churn prediction  
 
-- **Unsupervised Learning - (K-means clustering)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/6_k-means/K-means%20clustering.ipynb)  
+- **Intro. to Unsupervised Learning - K-means clustering**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/6_k-means/K-means%20clustering.ipynb)  
 Categorising Shopping mall customers based on their income and spending habits
 
-- **Unsupervised Learning - Dimensionality Reduction (PCA)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/7_PCA/Principal%20Component%20Analysis%20(PCA).ipynb)  
+- **Intro. to Unsupervised Learning - Dimensionality Reduction (PCA)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/7_PCA/Principal%20Component%20Analysis%20(PCA).ipynb)  
 Predicting if a customer group will like a new wine based on product parameters
