@@ -27,13 +27,12 @@ Repository containing portfolio of Data Science projects completed for academic,
 
 3. **Statistical Process Control (SPC) tools**  
 *Here I'm writing some of the most useful statistical Six Sigma tools in python*  
-    - Process Control Charts
+    - Process Control Charts  
       - Individuals and Moving Range Control Charts (I-MR) [NoteBook]( )
       - Xbar-R [NoteBook]( )
       - Xbar-S [NoteBook]( )
-
-    - Process Capability Study
-    - Normality Test
+    - Process Capability Study  
+    - Normality Test  
 
 
 <br/><br/>
