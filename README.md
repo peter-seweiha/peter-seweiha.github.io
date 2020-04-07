@@ -11,7 +11,7 @@ Repository containing portfolio of Data Science projects completed for academic,
 
 
 ### My Toolbox
-- **Python**: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, keras
+- **Python**: NumPy, Pandas, Seaborn, Matplotlib, Scipy, scikit-learn, TensorFlow, keras
 - **Data Processing**: Exploratory Data Analysis, Data Visualisation, Feature Engineering, Feature Selection
 - **Machine Learning**: Linear Regression, Logistic Regression, KNN, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Naive Bayes, Principal Component Analysis (PCA), K-means, Artificial Neural Networks
 - **Power BI**: Interactive Dashboards
