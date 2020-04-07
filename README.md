@@ -28,11 +28,11 @@ Repository containing portfolio of Data Science projects completed for academic,
 3. **Statistical Process Control (SPC) tools**  
 *Here I'm writing some of the most useful statistical Six Sigma tools in python*  
     - Process Control Charts  
-      - Individuals and Moving Range Control Charts (I-MR) [NoteBook]( )
-      - Xbar-R [NoteBook]( )
-      - Xbar-S [NoteBook]( )
-    - Process Capability Study [NoteBook]( )  
-    - Normality Test  [NoteBook]( )  
+      - Individuals and Moving Range Control Charts (I-MR) [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/Control%20charts/I_MR.ipynb)  
+      - Xbar-R [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/Control%20charts/Xbar_R%20chart.ipynb)  
+      - Xbar-S [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/Control%20charts/Xbar_S%20chart.ipynb)  
+    - Process Capability Study [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/process%20capability/Process%20Capability.ipynb)
+    - Normality Test  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/process%20capability/Normality%20test.ipynb)
 
 
 <br/><br/>
