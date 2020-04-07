@@ -22,8 +22,18 @@ Repository containing portfolio of Data Science projects completed for academic,
 ### My Projects
 1. **My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/The%20Titanic%20dataset.ipynb) <br />- *I focused heavily on Feature Engineering making sure I can extract as much information from the given dataset in addition to what I can assume based on my knowledge of this tragedy. Also selecting the right tree-based Algorithm and fine-tune the model hyperparameters*
 
-2. **Forcast the no of daily customers for a restaurant chain (Time Series Analysis)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb) <br />- 
+2. **Forcast the no of daily customers for a restaurant chain (Time Series Analysis)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb)  
 *Here I compared the performance of an ARIMA based model, FaceBook prophet, and a traditional XGB regression. Imagine who won!*
+
+3. **Statistical Process Control (SPC) tools**  
+*Here I'm writing some of the most useful statistical Six Sigma tools in python*  
+    - Process Control Charts  
+      - Individuals and Moving Range Control Charts (I-MR) [NoteBook]( )
+      - Xbar-R [NoteBook]( )
+      - Xbar-S [NoteBook]( )
+    - Process Capability Study [NoteBook]( )  
+    - Normality Test  [NoteBook]( )  
+
 
 <br/><br/>
 
