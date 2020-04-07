@@ -15,7 +15,7 @@ Repository containing portfolio of Data Science projects completed for academic,
 - **Data Processing**: Exploratory Data Analysis, Data Visualisation, Feature Engineering, Feature Selection
 - **Machine Learning**: Linear Regression, Logistic Regression, KNN, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Naive Bayes, Principal Component Analysis (PCA), K-means, Artificial Neural Networks
 - **Power BI**: Interactive Dashboards
-- **Minitab**: Control Charts, Process Capability Study, Measurement System Analysis(MSA), ANOVA, Hypothesis Testing, Time Series Analysis
+- **Minitab (SPC)**: Control Charts, Process Capability Study, Measurement System Analysis(MSA), ANOVA, Hypothesis Testing, Time Series Analysis
 
 <br/><br/>
 
