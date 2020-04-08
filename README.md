@@ -21,7 +21,7 @@ Repository containing a portfolio of Data Science projects and blogs completed f
 
 ### My Projects
 1. **Forcast the no of daily customers for a restaurant chain (Time Series Analysis)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb)  
-*Here I compared the performance of an ARIMA based model, FaceBook prophet, and a traditional XGB regression. Imagine who won!*
+*Here I compared the performance of an ARIMA based model, FaceBook prophet, and a traditional XGB regression. Imagine which performed the best!*
 
 2. **Statistical Process Control (SPC) tools**  
 *Here I'm writing some of the most useful statistical Six Sigma tools in python*  
