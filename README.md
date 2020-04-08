@@ -20,12 +20,10 @@ Repository containing a portfolio of Data Science projects and blogs completed f
 <br/><br/>
 
 ### My Projects
-1. **My approach to Kaggle's Titanic dataset (I made it to top 8% on Leaderboard!)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/The%20Titanic%20dataset.ipynb) <br />- *I focused heavily on Feature Engineering making sure I can extract as much information from the given dataset in addition to what I can assume based on my knowledge of this tragedy. Also selecting the right tree-based Algorithm and fine-tune the model hyperparameters*
-
-2. **Forcast the no of daily customers for a restaurant chain (Time Series Analysis)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb)  
+1. **Forcast the no of daily customers for a restaurant chain (Time Series Analysis)** [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/8_TimeSeries/TimeSeries%20Project.ipynb)  
 *Here I compared the performance of an ARIMA based model, FaceBook prophet, and a traditional XGB regression. Imagine who won!*
 
-3. **Statistical Process Control (SPC) tools**  
+2. **Statistical Process Control (SPC) tools**  
 *Here I'm writing some of the most useful statistical Six Sigma tools in python*  
     - Process Control Charts  
       - Individuals and Moving Range Control Charts (I-MR) [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/Control%20charts/I_MR.ipynb)  
@@ -42,6 +40,9 @@ Computer learning how to play a game of Frozen Lake using Reinforcement Learning
 
 - **Intro. to solving Differential Equations**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_02_Blogs/Differential%20equations/An%20introduction%20differential%20equations.ipynb)  
 Quick run through Differential Equations with a few simple examples using code
+
+- **My approach to Kaggle's Titanic dataset**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_02_Blogs/Differential%20equations/An%20introduction%20differential%20equations.ipynb)  
+A solution focused on feature engineering and a hyperparameter tuning (top 8% on Kaggle's Leaderboard!)
 
 - **Intro. to Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
 Classify a restaurant's customer text reviews into positive/negative  
