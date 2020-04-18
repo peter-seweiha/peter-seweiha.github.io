@@ -41,7 +41,7 @@ Computer learning how to play a game of Frozen Lake using Reinforcement Learning
 - **Intro. to solving Differential Equations**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/blogs/Differential%20equations/An%20introduction%20to%20differential%20equations.ipynb)  
 Quick run through Differential Equations with a few simple examples using code
 
-- **My approach to Kaggle's Titanic dataset**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_02_Blogs/Differential%20equations/An%20introduction%20differential%20equations.ipynb)  
+- **My approach to Kaggle's Titanic dataset**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/3_The%20Titanic%20Dataset/The%20Titanic%20dataset.ipynb)  
 A solution focused on feature engineering and a hyperparameter tuning (top 8% on Kaggle's Leaderboard!)
 
 - **Intro. to Natural Language Processing (NLP)**  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/4_NLP/%20Natural%20Language%20Processing.ipynb)  
