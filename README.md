@@ -31,6 +31,7 @@ Repository containing a portfolio of Data Science projects and blogs completed f
       - Xbar-S [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/Control%20charts/Xbar_S%20chart.ipynb)  
     - Process Capability Study [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/process%20capability/Process%20Capability.ipynb)
     - Normality Test  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/process%20capability/Normality%20test.ipynb)
+    - Histogram Comparison  [NoteBook](https://github.com/peter-seweiha/peter-seweiha.github.io/blob/master/projects/_01_Minitab_project/process%20capability/Compare%20Histograms.ipynb)
 
 <br/><br/>
 
