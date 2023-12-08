@@ -1,23 +1,42 @@
 digraph ProcessFlow {
 	Start
 	"Activity A"
-	Start -> "Activity A" [label="Probability: 1.0"]
+	Start [label="Start
+ 0 min"]
+	Start -> "Activity A" [label="Prob: 1.0"]
 	"Activity A"
 	"Activity B"
-	"Activity A" -> "Activity B" [label="Probability: 1.0"]
+	"Activity A" [label="Activity A
+ 10 min"]
+	"Activity A" -> "Activity B" [label="Prob: 1.0"]
 	"Activity B"
 	"Activity C"
-	"Activity B" -> "Activity C" [label="Probability: 1.0"]
+	"Activity B" [label="Activity B
+ 11 min"]
+	"Activity B" -> "Activity C" [label="Prob: 1.0"]
 	"Activity C"
 	"Activity D"
-	"Activity C" -> "Activity D" [label="Probability: 0.3"]
+	"Activity C" [label="Activity C
+ 12 min"]
+	"Activity C" -> "Activity D" [label="Prob: 0.3"]
 	"Activity C"
 	"Activity E"
-	"Activity C" -> "Activity E" [label="Probability: 0.7"]
+	"Activity C" [label="Activity C
+ 12 min"]
+	"Activity C" -> "Activity E" [label="Prob: 0.7"]
 	"Activity D"
 	"Activity E"
-	"Activity D" -> "Activity E" [label="Probability: 0.5"]
+	"Activity D" [label="Activity D
+ 13 min"]
+	"Activity D" -> "Activity E" [label="Prob: 0.5"]
 	"Activity D"
 	"Activity A"
-	"Activity D" -> "Activity A" [label="Probability: 0.5"]
+	"Activity D" [label="Activity D
+ 13 min"]
+	"Activity D" -> "Activity A" [label="Prob: 0.5"]
+	"Activity E"
+	End
+	"Activity E" [label="Activity E
+ 14 min"]
+	"Activity E" -> End [label="Prob: 1.0"]
 }
