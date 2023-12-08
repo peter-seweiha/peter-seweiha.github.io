@@ -1,0 +1,23 @@
+digraph ProcessFlow {
+	Start
+	"Activity A"
+	Start -> "Activity A" [label="Probability: 1.0"]
+	"Activity A"
+	"Activity B"
+	"Activity A" -> "Activity B" [label="Probability: 1.0"]
+	"Activity B"
+	"Activity C"
+	"Activity B" -> "Activity C" [label="Probability: 1.0"]
+	"Activity C"
+	"Activity D"
+	"Activity C" -> "Activity D" [label="Probability: 0.3"]
+	"Activity C"
+	"Activity E"
+	"Activity C" -> "Activity E" [label="Probability: 0.7"]
+	"Activity D"
+	"Activity E"
+	"Activity D" -> "Activity E" [label="Probability: 0.5"]
+	"Activity D"
+	"Activity A"
+	"Activity D" -> "Activity A" [label="Probability: 0.5"]
+}
